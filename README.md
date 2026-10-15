@@ -1,4 +1,8 @@
-# Matplotlib - Plot Graphs
+# Matplotlib - Plot Graphs 
 
-# Installation
+## Use Cases
+- Data Science
+- Data Analysis 
+
+## Installation
 - `pip install matplotlib`
